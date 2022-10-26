@@ -36,4 +36,11 @@ This code was structured using: Visual Studio Code Version: 1.72.1
 ## basic info
 In attempting to construct a unique portfolio website that can ultimately be used as a resume to highlight my ongoing work as a growing developer, I believe I was able to established a satisfying foundation or baseline for a site that I can use as an authentic way to highlight my working going forward.
 
-screenshot
+
+
+
+
+##screenshot
+
+
+![image](https://user-images.githubusercontent.com/111099189/198122264-3fa0a427-d997-4f48-99b9-c539e8a1f237.png)

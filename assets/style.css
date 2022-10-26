@@ -82,14 +82,18 @@ header {
 } 
 
 .coding h3 {
-  color: brown;
-  background-color: gray;
+  color: whitesmoke;
+  background-color: black;
   font-size: 40px;
+  font-family: sans-serif;
+  font-style: oblique;
+  
   
 }
 
  a {
   text-decoration: none;
+
 
 }
 
@@ -109,19 +113,19 @@ header {
 
 #CSSinfo {
   font-size: 15px;
-  padding: 6px;
+  padding: 2px;
   display:flex;
-  width: 70%;
-  margin: 1% auto;
+  width: 96%;
+  margin: -7% 0px 0px 2%;
   
 }
 
 #htmlinfo {
-  font-size: 17px;
-  padding: 7px;
+  font-size: 15px;
+  padding: 2px;
   display:flex;
-  width: 75%;
-  margin: 1% auto;
+  width: 93%;
+  margin: -5% 5% -5% 2%;
 }
 
 
@@ -129,16 +133,16 @@ header {
   font-size: 16px;
   padding: 7px;
   display:flex;
-  width: 75%;
-  margin: 1% auto;
+  width: 85%;
+  margin: -6% 0px 0px 5%;
 }
 
 #gitinfo {
-  font-size: 17px;
-  padding: 6px;
+  font-size: 15px;
+  padding: 2px;
   display:flex;
-  width: 75%;
-  margin: 1% auto;
+  width: 93%;
+  margin: -6% 0% 0% 3%;
 }
 
 
@@ -177,6 +181,16 @@ header {
 .thatsme {
   margin-left: 25px;
 }
+
+a:link {
+    color:firebrick;
+}
+
+a:hover {
+  color:forestgreen
+}
+
+
 
 
 .background header nav ul {

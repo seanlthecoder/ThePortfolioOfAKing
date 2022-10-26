@@ -1,26 +1,39 @@
 # ThePortfolioOfAKing
 
+
+## Developer Portfolio
+
+The ultimate goal with this project is to provide a website that provides information about who I am and to highlight my ongoing work as a growing developer.
+
+Another goal is to make sure code follows semantic concepts so that the code is realtively clean.
+
+
+
 ## User Story
 
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
+AS AN employer I WANT to view a potential employee's deployed portfolio of work samples SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 
 
-## Acceptance Criteria
 
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager's needs:
+## Authors
+@seanlthecoder
 
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
+
+
+
+## Table of Contents
+Technologies
+basic info
+
+
+
+## Technologies
+This code was structured using: Visual Studio Code Version: 1.72.1
+
+
+
+
+## basic info
+In attempting to construct a unique portfolio website that can ultimately be used as a resume to highlight my ongoing work as a growing developer, I believe I was able to established a satisfying foundation or baseline for a site that I can use as an authentic way to highlight my working going forward.
+
+screenshot

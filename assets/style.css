@@ -1,0 +1,248 @@
+.background {
+  background-color: black
+ 
+}
+
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5%;
+  background-image: url("sean1.JPG");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+
+}
+
+
+
+
+.bio {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3%;
+  background-color: white;
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.bio h2 {
+  color: gray;
+  font-size: 50px;
+  border-right: 3px solid black;
+  margin: 0 15px 0 15px; 
+  text-align: right;
+  padding: 10px;
+}
+
+.bio p {
+  font-size: larger;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 0 75px 0 25px;
+}
+
+.work {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3%;
+  background-color: white;
+}
+
+.work h2 {
+  color: gray;
+  font-size: 50px;
+  border-right: 3px solid black;
+  margin: 0px 15px 0px 25px; 
+  text-align: right;
+  padding: 300px 25px 300px 0;
+}
+
+.curriculum {
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: stretch;
+
+  
+}
+
+.coding {
+  border: 2px solid lightblue;
+  margin: 25px;
+  background-image: url(deepspace.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 30vw;
+  height: 30vh;
+} 
+
+.coding h3 {
+  color: brown;
+  background-color: gray;
+  font-size: 40px;
+  
+}
+
+ a {
+  text-decoration: none;
+
+}
+
+.coding h4 {
+  font-size: 15px;
+  padding: 25px;
+  background-color: saddlebrown;
+  margin-right: 50%;
+}
+
+.coding h4 {
+  color: white;
+  font-size: 18;
+
+} 
+
+
+#CSSinfo {
+  font-size: 15px;
+  padding: 6px;
+  display:flex;
+  width: 70%;
+  margin: 1% auto;
+  
+}
+
+#htmlinfo {
+  font-size: 17px;
+  padding: 7px;
+  display:flex;
+  width: 75%;
+  margin: 1% auto;
+}
+
+
+#javascriptinfo {
+  font-size: 16px;
+  padding: 7px;
+  display:flex;
+  width: 75%;
+  margin: 1% auto;
+}
+
+#gitinfo {
+  font-size: 17px;
+  padding: 6px;
+  display:flex;
+  width: 75%;
+  margin: 1% auto;
+}
+
+
+
+.contact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3%;
+  background-color: white;
+}
+
+.contact h2 {
+  color: gray;
+  font-size: 50px;
+  border-right: 3px solid black;
+  margin: 0 15px 0 1px; 
+  text-align: right;
+  padding: 5px;
+}
+
+#contactme ul {
+  display:flex; 
+  justify-content: space-between;
+  width: 100%;
+  
+}
+
+#contactme ul li {
+  list-style-type: none;
+  justify-content: space-between;
+  font-size: 40px;
+
+}
+
+
+
+
+.background header nav ul {
+  list-style: none;
+  margin: 5px;
+  padding: 5px;
+  background-color: black;
+  font-family: Georgia; 
+  font-size: 40px;
+  
+}
+
+
+
+h1 {
+  font-size: 75px;
+  background-color: none;
+  padding: 25px 50px 25px 50px; 
+  height: 100%;
+  color: gray;
+
+
+}
+
+nav {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  
+ 
+}
+li {
+  float: right;
+  
+}
+
+nav ul li a:hover {
+  
+  opacity: 20%;
+  transition-duration: .5%;
+  color: yellow;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 20px;
+ 
+  
+} 
+
+footer {
+  display: flex;
+  font-style: normal;
+  font-size: 20px;
+  box-sizing: border-box;
+  justify-content: center;
+  
+  
+  }
+  
+footer h2 {
+  color: gray;
+}
+
+
+@media screen and (max-width: 1752px) {
+  h1 {
+    font-size: 48px;
+  }
+}
+
+
+
+

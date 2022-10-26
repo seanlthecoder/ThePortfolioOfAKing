@@ -174,7 +174,9 @@ header {
 
 }
 
-
+.thatsme {
+  margin-left: 25px;
+}
 
 
 .background header nav ul {
@@ -202,9 +204,16 @@ h1 {
 nav {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 50px;
+  margin: 0px 10px;
+  
   
  
 }
+
+
+
+
+
 li {
   float: right;
   
@@ -218,6 +227,7 @@ nav ul li a:hover {
   padding: 10px;
   text-decoration: none;
   font-size: 20px;
+  margin: 0px 20px;
  
   
 } 

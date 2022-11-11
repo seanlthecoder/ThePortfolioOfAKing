@@ -38,9 +38,3 @@ In attempting to construct a unique portfolio website that can ultimately be use
 
 
 
-
-
-##screenshot
-
-
-![image](https://user-images.githubusercontent.com/111099189/198122264-3fa0a427-d997-4f48-99b9-c539e8a1f237.png)

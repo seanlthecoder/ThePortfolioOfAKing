@@ -68,6 +68,9 @@ header {
   padding: 300px 25px 300px 0;
 }
 
+
+/* using the curriculum class I was able to add specific designs to the main info link on the page */
+
 .curriculum {
   display:flex;
   justify-content: center;
@@ -76,7 +79,7 @@ header {
 
   
 }
-
+ /* added a coding class to help design the javascript section */
 .coding {
   border: 2px solid lightblue;
   margin: 25px;
@@ -211,7 +214,7 @@ a:link {
     color:firebrick;
 }
 
-/* added a pseudoclass for the hover effect on the navbar */
+/* added a pseudoclass for the hover effect on the footer  */
 a:hover {
   color:rgb(232, 10, 10)
 }
